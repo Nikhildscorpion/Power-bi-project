@@ -1,10 +1,10 @@
 Car Sales Dashboard with Power BI
 Welcome to my Car Sales Dashboard project repository! This project showcases my skills in data visualization and analysis using Power BI. The Car Sales Dashboard is designed to provide comprehensive insights into car dealership sales performance, enabling stakeholders to make data-driven decisions and drive business growth.
 
-Project Overview
+**Project Overview**
 The Car Sales Dashboard offers an interactive visualization of key performance indicators (KPIs) related to car sales, including total sales, average prices, cars sold, and more. With dynamic charts and detailed analytics, this dashboard empowers users to monitor sales trends, identify areas for improvement, and capitalize on opportunities for success.
 
-Key Features
+**Key Features**
 Sales Overview: Track year-to-date (YTD) and month-to-date (MTD) total sales, year-over-year (YOY) growth, and differences from previous years.
 Average Price Analysis: Analyze YTD and MTD average prices, track YOY growth rates, and compare current prices with previous year averages.
 Cars Sold Metrics: Monitor YTD and MTD cars sold, track YOY growth rates, and compare sales figures with previous years.
