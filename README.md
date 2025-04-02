@@ -13,14 +13,14 @@ Grid Displays: Analyze company-wise sales trends in a tabular grid format and vi
 Getting Started
 Clone the Repository: Clone this repository to your local machine using the following command:
 
-git clone https://github.com/ganeshvadlamuri/Car-Sales-Dashboard-Power-BI.git
-Open Power BI File: Open the Power BI file car_sales.pbix using Power BI Desktop.
+git clone (https://github.com/Nikhildscorpion/Power-bi-project.git)
+Open Power BI File: Open the Power BI file Car Sales dashboard.pbix using Power BI Desktop.
 
 Interact with the Dashboard: Explore the interactive dashboard to analyze sales performance metrics and trends. Filter data, drill down into specific insights, and gain actionable insights to drive business decisions.
 
 Customize as Needed: Customize the dashboard to suit your dealership's specific requirements. Modify visuals, add new insights, or integrate additional data sources to enhance the dashboard's functionality.
 
-Project Structure
+**Project Structure**
 car-sales-dashboard.pbix: Power BI file containing the Car Sales Dashboard.
 data: Excel file containing the data used for dashboard visualization.
 README.md: This README file providing an overview of the project.
